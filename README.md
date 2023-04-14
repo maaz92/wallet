@@ -22,6 +22,11 @@
 - User Name: maaz
 - Password: password
 
+## Initial data in the DB
+
+- Schema scripts can be found in src/main/resources/schema.sql
+- Data scripts can be found in src/main/resources/data.sql
+
 ## Postman Collection
 
 - Find Wallet_Collection.json file in the root folder
